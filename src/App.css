@@ -71,3 +71,13 @@
   color: #fff;
   background-color: blue;
 }
+
+.delete-button {
+  display: block;
+  margin: 10px auto;
+  width: 100px;
+  border-radius: 18px;
+  padding: 5px;
+  background-color: blue;
+  color: white;
+}
