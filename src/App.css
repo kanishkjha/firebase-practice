@@ -46,3 +46,10 @@
   background-color: blue;
   color: white;
 }
+
+.input-file {
+  display: block;
+  width: 150px;
+  padding: 5px;
+  margin: 20px auto;
+}

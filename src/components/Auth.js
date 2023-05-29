@@ -60,7 +60,7 @@ function Auth() {
           Sign up
         </button>
         <button className={styles.singUpButton} onClick={logOut}>
-          Sign up
+          Sign out
         </button>
         <button className={styles.singUpButton} onClick={signInWithGoogle}>
           Sign in with Google
